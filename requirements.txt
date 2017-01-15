@@ -8,6 +8,8 @@ cchardet==1.1.0
 chardet==2.3.0
 decorator==4.0.10
 Django==1.10.5
+django-extensions==1.7.5
+django-jquery==3.1.0
 djangorestframework==3.5.3
 flake8==3.0.4
 gunicorn==19.6.0
@@ -43,4 +45,5 @@ SQLAlchemy==1.0.15
 stripe==1.38.0
 traitlets==4.3.1
 wcwidth==0.1.7
+Werkzeug==0.11.15
 yarl==0.5.3
